@@ -1,15 +1,18 @@
-import { css } from '@emotion/react';
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import Main from './pages/Main';
+import Login from './pages/Login';
 
 function App() {
   return (
     <div>
-      <h1 css={header}>Hello &lsquo;peTher&lsquo; create react template!</h1>
+      <Router>
+        <Routes>
+          <Route path="/" element={<Main />} />
+          <Route path="/login" element={<Login />} />
+        </Routes>
+      </Router>
     </div>
   );
 }
-
-const header = css({
-  color: '#6867ac',
-});
 
 export default App;
