@@ -22,7 +22,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "test:coverage": "yarn test -- --coverage",
-    "test:no-watch": "react-scripts test --watchAll=false",
+    "test:no-watch": "react-scripts test --watchAll=false --passWithNoTests",
     "eslint": "eslint --fix",
     "prettier": "prettier --write",
     "ts": "tsc --project tsconfig.lint.json",
