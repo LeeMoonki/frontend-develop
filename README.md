@@ -20,3 +20,5 @@
 - [Prettier](https://prettier.io/)
 - [husky](https://typicode.github.io/husky/#/)
 - [Emotion](https://emotion.sh/docs/introduction)
+- [React Router](https://reactrouter.com/docs/en/v6)
+- [Mantine](https://mantine.dev/)
