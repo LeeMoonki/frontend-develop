@@ -6,9 +6,11 @@
 간단한 쇼핑몰을 구현하고 아래 명세를 참고합니다.
   - [쇼핑몰 명세](https://docs.google.com/presentation/d/16vdPB7ACHmY8jmFKQP5jLajT8XakD37dZUzITi1Uz_o/edit?usp=sharing)
 
-작업 내용은 아래 칸반에 기록 합니다.
+작업 내용은 아래 칸반을 활용해 진행합니다.
   - [쇼핑몰 칸반](https://trello.com/b/Qs0LNi9p)
 
+과정과 결과 등은 리파지토리 위키에 작성합니다.
+  - [위키](https://github.com/LeeMoonki/frontend-develop/wiki)
 
 
 ## 사용 도구
